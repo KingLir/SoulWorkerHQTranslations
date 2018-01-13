@@ -3137,7 +3137,7 @@ ID=5101
 Production Staff
 
 ID=5102
-Quit Game
+Quit
 
 ID=5103
 Change Server
