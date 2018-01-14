@@ -3200,7 +3200,7 @@ ID=5309
 Delete Character
 
 ID=5310
-New Character
+New TOON
 
 ID=5311
 Delete Character
